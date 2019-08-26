@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "short_name": "test",
+  "name": "vakancytestfrontend",
+  "short_name": "vakancytestfrontend",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
